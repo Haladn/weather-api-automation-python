@@ -1,2 +1,2 @@
-# weather api aplication with python
-# get weather accordingto your query
+# automating weather api aplication with python
+# get weather according to your query
